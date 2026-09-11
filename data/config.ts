@@ -65,7 +65,7 @@ export const appConfig = {
   },
   mongodb: {
     uri: process.env.MONGODB_URL, // url mongo mu
-dbName: "mypetrodikxzz",
+dbName: "primary",
   },
   socialMedia: {
     whatsapp: "https://wa.me/6289513452028",
